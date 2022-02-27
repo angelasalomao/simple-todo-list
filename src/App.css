@@ -1,0 +1,25 @@
+main {
+  width: 480px;
+  margin: 0 auto;
+}
+
+#main-section {
+  margin-top: 25%;
+  background-color: white;
+  padding: 16px;
+}
+
+#list-title {
+ text-align: center;
+ font-size: 18px;
+ font-weight: 700; 
+}
+
+.form {
+  display: flex;
+}
+
+.form .button {
+  margin-left: 8px;
+}
+
